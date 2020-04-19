@@ -1,0 +1,70 @@
+/****************Type Selectors*****************/
+body {
+  margin-top: 0;
+  text-align: center;
+  font-family: "Abel", sans-serif;
+}
+
+h1 {
+  margin-top: 0;
+  color: #df7861;
+  font-family: "dancing script", cursive;
+}
+
+p {
+  color: #df7861
+}
+
+h2 {
+  font-family: "Abel", sans-serif;
+  color: #df7861;
+}
+h3
+{
+  font-family: "Abel", sans-serif;
+  color: #df7861;
+}
+
+
+
+/****************Class Selectors*****************/
+.topContainer {
+  background-color: #fcf8e8;
+  position: relative;
+  padding-top: 140px;
+}
+
+.middleContainer {
+  background-color: #ecdfc8;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 200px
+}
+
+.bottomContainer {
+  background-color: #ecb390;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 400px;
+  top: 650px;
+}
+.MyProfilePic
+{width: 100px}
+
+.skillphoto
+{width: 80px}
+
+/****************ID Selectors*****************/
+#Rightcloud {
+  position: absolute;
+  top: 40px;
+  right: 300px;
+}
+
+#Leftcloud {
+  position: absolute;
+  bottom: 300px;
+  left: 350px;
+}
